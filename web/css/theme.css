@@ -1,0 +1,29 @@
+body {
+    font-size: small;
+}
+
+.the-title {
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+}
+
+.fs-path {
+    font-size: 12px;
+    font-weight: normal;
+    font-family: 'consolas', Georgia, "Times New Roman", Times, serif;
+    background-color: aliceblue;
+}
+
+#fs-tree {
+    font-family: Consolas,Georgia, "Times New Roman", Times, serif;
+}
+
+#fs-tree b {
+    color: blue;
+}
+
+#fs-tree span.last-modified-datetime {
+    font-size: 9px;
+    color: #555555;
+    margin-right: 5px;
+}
